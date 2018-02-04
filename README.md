@@ -5,7 +5,7 @@ Install [Tiryoh/raspimouse_http_controller](https://github.com/Tiryoh/raspimouse
 * sensor_receiver.ipynb
   * https://youtu.be/KiiLwgnJNnQ
 * sensor_monitor.ipynb
-  * https://youtu.be/lDSP9AbkdVw
+  * https://youtu.be/sBr1ngoACnU
 
 ## License
 
